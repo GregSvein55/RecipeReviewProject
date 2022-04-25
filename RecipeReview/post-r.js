@@ -1,0 +1,1 @@
+document.getElementById("p").addEventListener("submit", checkPost, false);

@@ -1,0 +1,1 @@
+document.getElementById("fr").addEventListener("submit", LogIn, false);
